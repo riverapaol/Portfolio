@@ -1,0 +1,54 @@
+
+
+/*<header>*/
+
+header {
+  background-color: #44250A;
+  height: 200px;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+
+  padding-top: 60px;
+  display: block;
+  margin: auto;
+}
+
+
+/*<cover>*/
+
+.cover {
+  overflow: hidden;
+  height: 400px;
+}
+
+
+/*<main>*/
+
+.row {
+  margin: 80px;
+}
+
+.col-lg-4 {
+
+}
+
+.col-lg-8 {
+}
+
+h1 {
+  font-family: Portrait-Regular-Web;
+  color: #F3434C;
+}
+
+.crop {
+  overflow: hidden;
+  height: 600px;
+}
+
+.image-cir{
+  width: 100%;
+
+}
